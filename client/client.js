@@ -1,4 +1,6 @@
 console.log('client');
+
+console.log('test');
 // counter starts at 0
 Session.setDefault('counter', 0);
 
